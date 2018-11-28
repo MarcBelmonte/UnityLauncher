@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:2:1-66:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5e6dcfff009aa0dc6d38b4001fe97726\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e8e9a1514f8157cb6c520b4045d048b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\67eb12c1633530912f4422f9f747fee0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a4776ffa5d778df6e3b2f1ac4da60a24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f62b35e6ff500f5ddfcc95690a7c5dfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ceedd405310eb1194d5afcbbaefdc544\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\33efcc52a4932e3a94baf8857fa8562b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\127155361c9079e350f443845e0fd031\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7a50a4f4eb1a793baf2999d347ee20a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\468083e03d2d21604efe7797ba555c88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c3ca972dcfa5caf152330ab1e322c5b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7963815366eb335070079935cc78b0c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3341b3ebbc9fb2dbf67062b1f6860559\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\41b6554518f425b2ff043d6e643ac03b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\65ed5cb43d8046ba841f6355152c2fb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4939abbc7135e71f13d865352bd5f8bf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ffa1d2df6b1bab2b85d4a13abc543de3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8049d7a1796001a841bf492a3c86a1e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7f020568d2cf356ff5e2fe243dd200e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\53b7d4ed77c4290d53e62ecf3f53123c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1a1843845fbebe8a78ed94e9ac3f7cf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e23b2bf313e4ffc1e3a9150f192d5247\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dc51dd590ddfe1aaf7f7a1be22c46174\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\eb9dc96d4ddef834b75b1ab0a034874c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2154e02b13cc7806c8bb017fcf91cc89\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c018e0a9fbac9bcb3ec44fca017e0378\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\04fd79731076034fa4cefcc709c36847\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:4:5-46
+		INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:6:5-21:19
+MERGED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:31:5-64:19
+MERGED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:31:5-64:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e8e9a1514f8157cb6c520b4045d048b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e8e9a1514f8157cb6c520b4045d048b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4939abbc7135e71f13d865352bd5f8bf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4939abbc7135e71f13d865352bd5f8bf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ffa1d2df6b1bab2b85d4a13abc543de3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ffa1d2df6b1bab2b85d4a13abc543de3\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4939abbc7135e71f13d865352bd5f8bf\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:9:9-43
+		REJECTED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:33:9-40
+	android:allowBackup
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:7:9-35
+	android:banner
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:32:9-46
+	android:theme
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:13:9-40
+		REJECTED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:36:9-50
+	android:isGame
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:34:9-30
+	tools:replace
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:8:9-51
+activity#dsa.eetac.upc.edu.unitylauncher.MainActivity
+ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+MERGED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:9:5-11:41
+MERGED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5e6dcfff009aa0dc6d38b4001fe97726\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5e6dcfff009aa0dc6d38b4001fe97726\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e8e9a1514f8157cb6c520b4045d048b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e8e9a1514f8157cb6c520b4045d048b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\67eb12c1633530912f4422f9f747fee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\67eb12c1633530912f4422f9f747fee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a4776ffa5d778df6e3b2f1ac4da60a24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a4776ffa5d778df6e3b2f1ac4da60a24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f62b35e6ff500f5ddfcc95690a7c5dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f62b35e6ff500f5ddfcc95690a7c5dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ceedd405310eb1194d5afcbbaefdc544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ceedd405310eb1194d5afcbbaefdc544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\33efcc52a4932e3a94baf8857fa8562b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\33efcc52a4932e3a94baf8857fa8562b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\127155361c9079e350f443845e0fd031\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\127155361c9079e350f443845e0fd031\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7a50a4f4eb1a793baf2999d347ee20a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7a50a4f4eb1a793baf2999d347ee20a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\468083e03d2d21604efe7797ba555c88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\468083e03d2d21604efe7797ba555c88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c3ca972dcfa5caf152330ab1e322c5b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c3ca972dcfa5caf152330ab1e322c5b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7963815366eb335070079935cc78b0c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7963815366eb335070079935cc78b0c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3341b3ebbc9fb2dbf67062b1f6860559\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3341b3ebbc9fb2dbf67062b1f6860559\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\41b6554518f425b2ff043d6e643ac03b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\41b6554518f425b2ff043d6e643ac03b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\65ed5cb43d8046ba841f6355152c2fb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\65ed5cb43d8046ba841f6355152c2fb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4939abbc7135e71f13d865352bd5f8bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4939abbc7135e71f13d865352bd5f8bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ffa1d2df6b1bab2b85d4a13abc543de3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ffa1d2df6b1bab2b85d4a13abc543de3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8049d7a1796001a841bf492a3c86a1e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8049d7a1796001a841bf492a3c86a1e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7f020568d2cf356ff5e2fe243dd200e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7f020568d2cf356ff5e2fe243dd200e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\53b7d4ed77c4290d53e62ecf3f53123c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\53b7d4ed77c4290d53e62ecf3f53123c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1a1843845fbebe8a78ed94e9ac3f7cf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1a1843845fbebe8a78ed94e9ac3f7cf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e23b2bf313e4ffc1e3a9150f192d5247\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e23b2bf313e4ffc1e3a9150f192d5247\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dc51dd590ddfe1aaf7f7a1be22c46174\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dc51dd590ddfe1aaf7f7a1be22c46174\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\eb9dc96d4ddef834b75b1ab0a034874c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\eb9dc96d4ddef834b75b1ab0a034874c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2154e02b13cc7806c8bb017fcf91cc89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2154e02b13cc7806c8bb017fcf91cc89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c018e0a9fbac9bcb3ec44fca017e0378\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c018e0a9fbac9bcb3ec44fca017e0378\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\04fd79731076034fa4cefcc709c36847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\04fd79731076034fa4cefcc709c36847\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marcb\DSA\JuegoExportado\UnityLauncher\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:13:5-18:40
+	android:largeScreens
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:16:9-37
+	android:xlargeScreens
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:18:9-37
+	android:anyDensity
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:14:9-34
+uses-feature#0x00020000
+ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:20:5-54
+	android:glEsVersion
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:20:19-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:22:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:25:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:28:9-72
+activity#dsa.eetac.upc.edu.UnityPlayerActivity
+ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:37:9-53:20
+	android:screenOrientation
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:43:13-51
+	android:label
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:41:13-45
+	android:launchMode
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:42:13-44
+	android:hardwareAccelerated
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:40:13-48
+	android:configChanges
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:39:13-194
+	android:name
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:38:13-65
+meta-data#unityplayer.UnityActivity
+ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:50:13-52:40
+	android:value
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:52:17-37
+	android:name
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:51:17-57
+meta-data#unity.build-id
+ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:55:9-57:68
+	android:value
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:57:13-65
+	android:name
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:56:13-42
+meta-data#unity.splash-mode
+ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:58:9-60:33
+	android:value
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:60:13-30
+	android:name
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:59:13-45
+meta-data#unity.splash-enable
+ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:61:9-63:36
+	android:value
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:63:13-33
+	android:name
+		ADDED from [:Prueba-debug] C:\Users\marcb\.gradle\caches\transforms-1\files-1.1\Prueba-debug.aar\b752324ab80d3bab2b0aea0a9eb1ca61\AndroidManifest.xml:62:13-47
